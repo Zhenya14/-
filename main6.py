@@ -8,7 +8,7 @@ import json
 import os
 
 # Введіть свій токен бота
-BOT_TOKEN = "6853445130:AAEa-YTinTV4mWQxbGCSr8dhnthqa8WH5vw"
+BOT_TOKEN = "ваш токен"
 ADMIN_CHAT_ID = 1857624359
 
 bot = telebot.TeleBot(BOT_TOKEN)
